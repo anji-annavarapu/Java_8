@@ -1,5 +1,4 @@
 **Java 8 interview questions**
-
 1.	What are the main features of Java 8?
 2.	What is a lambda expression in Java 8? Where you use it in your project ?
 3.	What is a functional interface? How is it different from a normal interface?
