@@ -21,4 +21,4 @@
 19.	What are the methods you frequently use in stream api?
 20.	What is the difference between map() and flatMap() in the Stream API?
 21.	What is reduce() in Stream API? Give an example?
-22.	What is parallel stream ? how it is differ from normal stream ? give me one implementation example ?
+22.	What is parallel stream ? how it is differ from normal stream ? give me one implementation example?
